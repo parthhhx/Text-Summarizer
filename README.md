@@ -19,7 +19,7 @@ This model summarizes text using fine tuned Hugging Face Model
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/parthhhx/Text-Summarizer
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -50,9 +50,9 @@ open up you local host and port
 
 
 ```bash
-Author: Krish Naik
-Data Scientist
-Email: krishnaik06@gmail.com
+Author: Parth Chaudhari
+Parth Chaudhari
+Email: parthchaudhari223@gmail.com
 
 ```
 
